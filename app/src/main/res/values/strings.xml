@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">OnlineFoodDeliveryApp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+
+    </string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="rs_0_0">Rs. 0.0</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="enter_your_zip">Enter your zip</string>
+    <string name="card_details">Card Details</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="enter_card_expiry_mm_yyyy">Enter Card expiry(mm/yyyy)</string>
+    <string name="enter_card_pin_3_digits">Enter Card pin(3 digits)</string>
+    <string name="total_items_in_cart">Total items in cart</string>
+    <string name="sub_total">Sub total</string>
+    <string name="total">Total</string>
+    <string name="place_your_order">Place your order</string>
+    <string name="enter_your_state">Enter your state</string>
+    <string name="foodzone">FoodZone</string>
+    <string name="address_empire_building_no_130_to_150">Address:Empire Building,No 130 to 150</string>
+    <string name="hours_10_00am_10_pm">Hours:10:00Am-10.PM</string>
+    <string name="todo">TODO</string>
+    <string name="crrate_new_account">Crrate new account</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="signup">SignUp</string>
+    <string name="email_address">Email Address</string>
+    <string name="sign_in">SIgn In</string>
+    <string name="or">OR</string>
+</resources>
